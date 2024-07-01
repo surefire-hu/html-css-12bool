@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.green-box {
+    background-color: #00E165;
+    height: 25px;
+    border: 1px solid #006CFA;
+}
+
+span {
+    color: white;
+    text-align: center;
+}
+.box {
+    background-color: #006CFA;
+    height: 50px;
+    border: 1px solid white;
+}
+
+.my-container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.my-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
