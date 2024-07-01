@@ -37,3 +37,30 @@ span {
 .margin-bottom {
     margin-bottom: 10px;
 }
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-end {
+    justify-content: end;
+}
+
+.height {
+    height: 100px;
+}
+
+.align-center {
+    align-self: center;
+}
+
+.align-end {
+    align-self: end;
+}
+
+.space-around {
+    justify-content: space-around;
+}
+.space-between {
+    justify-content: space-between;
+}
